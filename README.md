@@ -59,3 +59,20 @@ Correlations with Final Grade in ascending order:
 ![](https://github.com/BradJShaw/Linear-Regression-Using-Gradient-Descent/blob/main/graphs/correlations.png)
 
 # Results
+
+R2: 0.933
+
+MAE: 0.607
+
+MSE: 0.607
+
+RMSE: .779
+________
+Error vs Iterations
+
+![](https://github.com/BradJShaw/Linear-Regression-Using-Gradient-Descent/blob/main/equations/error%20vs%20iterations.png)
+
+__________
+Percentage vs Error
+
+![](https://github.com/BradJShaw/Linear-Regression-Using-Gradient-Descent/blob/main/equations/predictions%20over%20actual.png)
