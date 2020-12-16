@@ -6,4 +6,5 @@ Train the Linear Regression Model with a Student Performance Dataset (https://ar
 
 # Graphs
 Heat map of the dataset: 
+
 ![](https://github.com/BradJShaw/Linear-Regression-Using-Gradient-Descent/blob/main/graphs/heatmap.png)
