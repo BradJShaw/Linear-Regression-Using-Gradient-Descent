@@ -9,7 +9,7 @@ Error Function (MSE):
 
 ![](https://github.com/BradJShaw/Linear-Regression-Using-Gradient-Descent/blob/main/equations/Error%20Function.png)
 
-Above is the formulas for calculating the MSE.
+Above is the formulas for calculating the Mean Squared Error of the results.
 
 We can represent this algorithm using linear algebra in order to calculate the error of all the predictions without looping.
 
